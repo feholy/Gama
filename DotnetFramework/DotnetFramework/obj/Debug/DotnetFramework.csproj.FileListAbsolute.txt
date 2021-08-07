@@ -1,0 +1,7 @@
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\bin\Debug\DotnetFramework.exe.config
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\bin\Debug\DotnetFramework.exe
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\bin\Debug\DotnetFramework.pdb
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.csproj.AssemblyReference.cache
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.csproj.CoreCompileInputs.cache
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.exe
+C:\Users\broth\source\repos\DotnetFramework\DotnetFramework\obj\Debug\DotnetFramework.pdb

@@ -1,0 +1,7 @@
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\obj\Debug\EscolaProgramacao.csproj.AssemblyReference.cache
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\obj\Debug\EscolaProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\bin\Debug\EscolaProgramacao.exe.config
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\bin\Debug\EscolaProgramacao.exe
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\bin\Debug\EscolaProgramacao.pdb
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\obj\Debug\EscolaProgramacao.exe
+C:\Users\broth\source\repos\EscolaProgramacao\EscolaProgramacao\obj\Debug\EscolaProgramacao.pdb

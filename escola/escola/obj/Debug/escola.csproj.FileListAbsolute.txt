@@ -1,0 +1,7 @@
+C:\Users\broth\source\repos\escola\escola\bin\Debug\escola.exe.config
+C:\Users\broth\source\repos\escola\escola\bin\Debug\escola.exe
+C:\Users\broth\source\repos\escola\escola\bin\Debug\escola.pdb
+C:\Users\broth\source\repos\escola\escola\obj\Debug\escola.csproj.AssemblyReference.cache
+C:\Users\broth\source\repos\escola\escola\obj\Debug\escola.csproj.CoreCompileInputs.cache
+C:\Users\broth\source\repos\escola\escola\obj\Debug\escola.exe
+C:\Users\broth\source\repos\escola\escola\obj\Debug\escola.pdb

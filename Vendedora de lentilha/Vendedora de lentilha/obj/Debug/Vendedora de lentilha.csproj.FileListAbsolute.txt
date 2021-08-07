@@ -1,0 +1,7 @@
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\bin\Debug\Vendedora de lentilha.exe.config
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\bin\Debug\Vendedora de lentilha.exe
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\bin\Debug\Vendedora de lentilha.pdb
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\obj\Debug\Vendedora de lentilha.csproj.AssemblyReference.cache
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\obj\Debug\Vendedora de lentilha.csproj.CoreCompileInputs.cache
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\obj\Debug\Vendedora de lentilha.exe
+C:\Users\broth\source\repos\Vendedora de lentilha\Vendedora de lentilha\obj\Debug\Vendedora de lentilha.pdb

@@ -1,0 +1,7 @@
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\obj\Debug\ExercicioIf.csproj.AssemblyReference.cache
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\obj\Debug\ExercicioIf.csproj.CoreCompileInputs.cache
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\bin\Debug\ExercicioIf.exe.config
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\bin\Debug\ExercicioIf.exe
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\bin\Debug\ExercicioIf.pdb
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\obj\Debug\ExercicioIf.exe
+C:\Users\broth\source\repos\ExercicioIf\ExercicioIf\obj\Debug\ExercicioIf.pdb
